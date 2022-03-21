@@ -4,7 +4,7 @@
 
 GUI Included 
 
-Concepts applied:
+## Concepts applied:
 1. Java Language
 
 2. Object Oriented Programming 
